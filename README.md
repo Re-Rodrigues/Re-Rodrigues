@@ -10,9 +10,9 @@
 - Automação
 - Testes de Software
 
-## 📊 GitHub Stats
+## 💻 Linguagens mais usadas
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-Rodrigues&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Rodrigues&layout=compact&theme=dark)
 
 ## 📫 Contato
 
