@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Renan Rodrigues
 
-<!--
-**Re-Rodrigues/Re-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na UniAcademia  
+📍 Juiz de Fora - MG  
 
-Here are some ideas to get you started:
+## 💻 Interesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de Software
+- Bancos de Dados
+- Automação
+- Testes de Software
+
+## 📊 GitHub Stats
+
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-Rodrigues&show_icons=true&theme=dark)
+
+## 📫 Contato
+
+- Email: renann.rodriguesjf@gmail.com
