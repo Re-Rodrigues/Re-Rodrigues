@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Renan Rodrigues
 
-🎓 Estudante de Sistemas de Informação na UniAcademia  
+🎓 Estudante de Sistemas de Informação na [UniAcademia](https://www.uniacademia.edu.br)  
 📍 Juiz de Fora - MG  
 
 ## 💻 Interesses
