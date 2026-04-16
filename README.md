@@ -3,13 +3,6 @@
 🎓 Estudante de Sistemas de Informação na [UniAcademia](https://www.uniacademia.edu.br)  
 📍 Juiz de Fora - MG  
 
-## 💻 Interesses
-
-- Desenvolvimento de Software
-- Bancos de Dados
-- Automação
-- Testes de Software
-
 ## 💻 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Rodrigues&layout=compact&theme=dark)
